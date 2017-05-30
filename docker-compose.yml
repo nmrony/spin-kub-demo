@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  node-app:
+    image: kubernetes
+    build: .
+    ports:
+      - 8000:8000

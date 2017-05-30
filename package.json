@@ -1,0 +1,13 @@
+{
+  "name": "spin-kube-testing",
+  "version": "1.0.0",
+  "description": "Sample NodeJS app to test Spinnaker Kubernetes",
+  "main": "server.js",
+  "repository": "https://github.com/nmrony/spin-kub-demo",
+  "author": "Nur Rony<nur.rony@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.6.2",
+    "serve-static": "^1.12.3"
+  }
+}
