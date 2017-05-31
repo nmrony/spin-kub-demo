@@ -2,7 +2,7 @@ version: '2.1'
 
 services:
   node-app:
-    image: kubernetes
+    image: nmrony/v1.4.0
     build: .
     ports:
       - 8000:8000
